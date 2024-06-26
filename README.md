@@ -42,6 +42,7 @@ These instructions will help you set up and run the Tic-Tac-Toe game on your loc
 
 2. Open your browser and navigate to http://localhost:3000 to play the game.
 
+
 ## Project Structure
 
 - **Game component** : The main component that manages the game state and history
